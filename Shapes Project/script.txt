@@ -1,0 +1,241 @@
+Script started on Fri Mar  3 17:53:05 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                         [0m[27m[24m[Jestherthompson@Esthers-MacBook-Air src % [?2004hjavac Test.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                         [0m[27m[24m[Jestherthompson@Esthers-MacBook-Air src % [?2004hjava tEST[K[K[K[KTest[?2004l
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+1
+Please enter length: 
+3
+Please enter width: 
+4
+Rectangle index: 0
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+2
+Please enter radius: 
+3
+Circle index: 1
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+4
+Please enter index of the shape (Shape 1 is at index 0):   
+3
+Invalid Shape index
+[1m[7m%[27m[1m[0m                                                                                                                                                         [0m[27m[24m[Jestherthompson@Esthers-MacBook-Air src % [?2004hjavac Test.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                         [0m[27m[24m[Jestherthompson@Esthers-MacBook-Air src % [?2004hjava Test[?2004l
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+1
+Please enter length: 
+2
+Please enter width: 
+3
+Rectangle index: 0
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+2
+Please enter radius: 
+3
+Circle index: 1
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+3
+Please enter index of the shape (Shape 1 is at index 0): 
+0
+Please enter origin for x-coordinate: 
+3
+Please enter origin for y-coordinate: 
+4
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+4
+Please enter index of the shape (Shape 1 is at index 0):   
+0
+Enter Length: 
+2
+Enter Width: 
+3
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+5
+Please enter the index of the Shape (Shape 1 is at index 0)
+0
+the index of the shape is: The location of the Rectangle is: Point@4b67cf4dwith a length of2.0and width of 3.0
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+6
+Enter the shape's index (Shape 1 is at index 0):
+0
+Enter number of points do you want move the shape - x-coordinate: 
+3
+Enter number of points do you want move the shape - y-coordinate: 
+6
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+7
+Enter the index of Shape 1 (Shape 1 is at index 0): 
+0
+Enter the index of Shape 2 (Shape 1 is at index 0): 
+1
+The distance of between two objects is:  11.661903789690601
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+8
+Enter the index of the shape you want to destroy (Shape 1 is at index 0): 
+1
+Shape 1 is not destroyed
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+9
+The state of the the shape is: 
+ [The location of the Rectangle is: Point@4b67cf4dwith a length of2.0and width of 3.0, null]
+1.	Create Rectangle
+2.	Create Circle
+3.	Set the origin point for Shape
+4.	Set the dimensions for Shape 
+5.	Display the current state of Shape 
+6.	Move  Shape according to delta x and delta y
+7.	Compute distance between two objects
+8.	Destroy any object 
+9.	List the current state for all objects in the array.
+10.	Quit the program
+
+Please enter a number from 1-9 in the text menu: 
+
+10
+Goodbye!
+[1m[7m%[27m[1m[0m                                                                                                                                                         [0m[27m[24m[Jestherthompson@Esthers-MacBook-Air src % [?2004hexit[?2004l
+
+Script done on Fri Mar  3 17:55:04 2023
