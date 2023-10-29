@@ -1,6 +1,4 @@
 // Esther Thompson
-// UCID - 30176925
-// TUTORIAL T03
 import java.util.ArrayList;
 import java.util.Scanner;
 
