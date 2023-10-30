@@ -1,0 +1,38 @@
+README
+Mortgage Calculator
+This application calculates mortgage payments and other important financial details using the Model-View-Controller design pattern. The program is written in Java and uses the Swing library for the Graphical User Interface (GUI).
+Requirements
+* Java 8 or later
+* An IDE (such as IntelliJ IDEA or Eclipse) or a command-line interface
+Installation
+1. Clone or download the project from the repository.
+2. Open the project in your preferred IDE or command-line interface.
+Usage
+1. Run the Main.java file.
+2. Enter the number of monthly payments (amortization), the principal (total amount loaned), and the annual interest rate in the corresponding text fields.
+    * Click on the "Calculate" button to display the following information:
+    * The amount of the blended monthly payment (principal + interest)
+    * The total interest paid over the length of the mortgage
+    * The total interest and principal
+    * The interest/principal ratio
+    * The average interest paid per year
+    * The average interest paid per month
+    * The amortization expressed in years
+Formulae
+B = Pi / (1-((i+1)^n))
+Where:
+* B is the amount of the periodic blended payment (principal + interest)
+* P is the principal
+* i is the interest factor (calculated using the formula below)
+* n is the number of payments over the length of the mortgage
+i = ([r/c + 1]^(c/f)) - 1
+Where:
+* i is the interest factor expressed as a fraction (not percent)
+* r is the annual interest rate (a fraction)
+* c is the compounding frequency per year (usually 2 for mortgages, i.e. every 6 months or semi-annually)
+* f is the frequency of payments per year (e.g. 12 for monthly payments).
+Project Structure
+All classes are organized into a package named "lab4".
+* MortgageModel.java - This class represents the model of the MVC design pattern.
+* MortgageView.java - This class represents the view of the MVC design pattern.
+* MortgageController.java - This class represents the controller of the MVC design pattern and where the main class will run.
