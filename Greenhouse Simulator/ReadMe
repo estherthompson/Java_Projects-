@@ -1,0 +1,34 @@
+README for Greenhouse Simulation
+
+A Java-based application called Greenhouse Simulation simulates a greenhouse's climate control system.
+The application's goal is to automatically regulate the greenhouse's soil moisture, humidity, and temperature.
+ Before putting their temperature control systems into practise, greenhouse owners can test and assess them using this programme.
+
+
+Features:
+
+-	Using the application's temperature, humidity, and soil moisture parameters, the user can replicate a greenhouse environment.
+-	It is possible to automate the regulation of temperature control equipment such a furnace, air conditioner, humidifier, and sprinkler system.
+-	The temperature controller regulates the room's temperature by turning on or off the furnace and air conditioner.
+-	The soil moisture controller keeps track of soil moisture and activates or deactivates the sprinkler system as necessary to keep it within a user-specified range.
+-	The humidifier is turned on or off as necessary by the humidity controller to maintain the relative humidity of the air within a user-specified range.
+-	When the greenhouse is heated or cooled by climate control equipment or outside weather, the user can manage the rate at which temperature changes.
+-	The simulation can be started and stopped at any moment by the user. Each controller has its own sampling rate and runs separately.
+-	The current temperature, humidity, and soil moisture are shown on the Graphical User Interface along with how they vary over time. Additionally, it displays if the climate control equipment is on or off. The interface is made more user-friendly by the usage of animations.
+-	The programme offers a way to store simulations in a file. At each sample increment, the user-specified parameters and the values of the current environment are preserved. There is also a way to view any saved simulations.
+
+Requirements:
+
+-	Java 8 or a later version.
+-	System of operation: Windows, Linux, or Mac OS.
+Usage:
+
+-	If it isn't already installed, install Java or IDE.
+-	Activate the GreenhouseSimulation.java programme.
+-	The user can adjust the parameters for the temperature, humidity, and soil moisture. As needed, the climate control equipment can be turned on or off.
+-	The current temperature, humidity, and soil moisture are shown on the Graphical User Interface along with how they vary over time.
+Conclusion:
+
+The Greenhouse Simulation application offers a platform for testing and analysing a greenhouse's temperature control system.
+The user can simulate various environmental situations and assess how well the climate control systems operate in preserving the desired settings.
+The programme can be used to improve the temperature control system's settings for better outcomes.
