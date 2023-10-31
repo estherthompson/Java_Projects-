@@ -16,7 +16,7 @@ Project 2: Greenhouse Simulator
 Description: The Greenhouse Simulator is a Java-based application designed to replicate a greenhouse's climate control system. It automates the regulation of soil moisture, humidity, and temperature, making it a valuable tool for greenhouse owners to test and evaluate their climate control systems.
 
 Project 3: Mortgage Calculator
-Description: This project, part of "Introduction to Computer Science II," involves creating a Mortgage Calculator application with a graphical user interface (GUI) using Java and Swing libraries. Users can enter the number of monthly payments, the principal, and the annual interest rate to calculate various mortgage-related values. The application follows the Model-View-Controller design pattern and includes features like different payment frequencies and the option to generate a payment schedule.
+Description: This project involves creating a Mortgage Calculator application with a graphical user interface (GUI) using Java and Swing libraries. Users can enter the number of monthly payments, the principal, and the annual interest rate to calculate various mortgage-related values. The application follows the Model-View-Controller design pattern and includes features like different payment frequencies and the option to generate a payment schedule.
 
 How to Navigate
 
